@@ -1,10 +1,7 @@
 ### Python If Else Statement
 
 ### Age Quiz:
-- Taking user_age input from user
-- Convert user_age input into interger and store in age variable.
-- Apply check if age is greater than 100 then print "Sorry, you're dead."
-- Apply check elif age is greater than equal to 40 then print "You're over the hill."
-- Apply check elif age is equal to 21 then print "Congrats on your 21st!"
-- Apply check elif age is less than equal to 13 then print "You qualify for the kiddie discount."
-- else print "Age is but a number"
+
+This program takes user_age input from the user, converts it into an integer, applies an if statement check, and returns a response to the user according to their age.
+
+<br> <img src="https://github.com/user-attachments/assets/a7ad284e-5827-4af7-95ca-055248fec66c" width="1512" /> </br>
